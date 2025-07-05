@@ -17,7 +17,7 @@
 
 ---
 
-## 他のプロジェクト
+## 載せている他のプロジェクト
 
 　現(2025/07/05)
 - [game-studies](https://github.com/shishamo357/game-studies)
